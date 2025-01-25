@@ -1,0 +1,21 @@
+/* Footer Styles */
+footer {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+    position: relative; 
+    bottom: 0;
+    width: 100%; 
+    font-family: Arial, sans-serif; 
+}
+
+footer a {
+    color: #ff9800; 
+    text-decoration: none; 
+    margin: 0 10px; 
+}
+
+footer a:hover {
+    text-decoration: underline; 
+}
